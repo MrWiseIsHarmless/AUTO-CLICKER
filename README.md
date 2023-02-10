@@ -1,0 +1,2 @@
+# AUTO-CLICKER
+**wsg**
